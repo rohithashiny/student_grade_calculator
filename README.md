@@ -47,7 +47,7 @@ Name: Mia, Marks: 67.0, Grade: C, Comment: Average performance.
 
 All records stored successfully!
 ```
-🧩 How It Works & Run
+## 🧩 How It Works & Run
 
 The program asks for each student's name and marks.
 
@@ -58,7 +58,7 @@ Each record is stored in a list of dictionaries.
 After all entries, the program prints a formatted summary of all results.
 
 ---
-💡 Future Improvements
+## 💡 Future Improvements
 
 Add subject-wise grading
 
@@ -69,7 +69,7 @@ Create a GUI version using Tkinter
 Add input validation and error handling 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Rohitha
 Built with 💙 using Python.
